@@ -44,4 +44,4 @@ def test_divide(math_utils_instance):
 
 def test_divide_by_zero(math_utils_instance):
     assert math_utils_instance.divide(10, 0) == -1.0
-# My-python-project
+
